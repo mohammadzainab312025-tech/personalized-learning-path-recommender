@@ -1,0 +1,11 @@
+course_id,course_name,category,difficulty
+101,Python Basics,Programming,Beginner
+102,Machine Learning Fundamentals,AI,Intermediate
+103,Deep Learning,AI,Advanced
+104,SQL Fundamentals,Database,Beginner
+105,Data Visualization,Analytics,Intermediate
+106,NLP Basics,AI,Advanced
+107,Power BI,Analytics,Intermediate
+108,Statistics for ML,Mathematics,Intermediate
+109,TensorFlow Basics,AI,Advanced
+110,Web Development Basics,Web,Beginner
